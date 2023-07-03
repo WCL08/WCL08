@@ -1,7 +1,8 @@
 <div align="center"> 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=WOOCHUL_LEE&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=WOOCHUL_LEE&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62">
   </div>
   
+
 <h3>🎉 안녕하세요</h3>
 <p>배움에는 끝이 없다 </p>
 <p>프론트엔드 신입 개발자 이우철입니다.</p>
